@@ -1,0 +1,1 @@
+const ACCESS_TOKEN = process.env.NEXT_CONTENTFUL_ACCESS_TOKEN;
