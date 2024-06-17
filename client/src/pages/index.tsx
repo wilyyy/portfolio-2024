@@ -7,7 +7,7 @@ export default function Home() {
    return (
       <Layout>
          <p>Rebuilding portfolio.</p>
-         <a target="_blank" href="https://willy-portfolio.vercel.app/">
+         <a target="_blank" href="https://portfolio-v2-rose.vercel.app/">
             Click here for Legacy Portfolio from 2022.
          </a>
       </Layout>
