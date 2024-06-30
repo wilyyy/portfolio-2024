@@ -30,7 +30,6 @@ export default function ObfuscatedText({
 
    useEffect(() => {
       if (!reveal) {
-         //  const characterCount = children.replace(/ /g, "").length;
          let obfuscationInterval: NodeJS.Timeout;
 
          const Obfuscate = () => {
